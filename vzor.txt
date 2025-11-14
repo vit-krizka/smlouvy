@@ -6,12 +6,12 @@ uzavřená dle § 2201 a násl. zákona č. 89/2012 Sb., občanský zákoník
 ------------------------------------------------------------
 
 Pronajímatel:
-Jméno a příjmení / obchodní firma: [●]
-Datum narození / IČO: [●]
-Bydliště / sídlo: [●]
-Kontaktní adresa (je-li odlišná): [●]
-E-mail: [●]
-Telefon: [●]
+Jméno a příjmení / obchodní firma: Statutární město Brno, městská část Brno-střed
+Datum narození / IČO: IČO 44992785
+Bydliště / sídlo: Dominikánská 2, 601 69 Brno
+Kontaktní adresa (je-li odlišná): Odbor správy majetku, Dominikánská 2, 601 69 Brno
+E-mail: podatelna@brno-stred.cz
+Telefon: +420 542 526 111
 
 (dále jen „Pronajímatel“)
 
@@ -73,13 +73,7 @@ Podrobný seznam vybavení je uveden v Předávacím protokolu, který tvoří p
 4. DOBA NÁJMU
 ------------------------------------------------------------
 
-4.1 Nájem se sjednává:
-
-(a) na dobu určitou od [●] do [●].
-NEBO
-(b) na dobu neurčitou počínaje dnem [●].
-
-(nevyhovující variantu prosím smažte).
+4.1 Nájem se sjednává na dobu určitou od [●] do [●].
 
 4.2 V případě nájmu na dobu určitou se Smluvní strany mohou dohodnout na uzavření nové nájemní smlouvy nebo na prodloužení této Smlouvy formou písemného dodatku.
 
