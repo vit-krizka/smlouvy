@@ -178,6 +178,8 @@ nejpozději do [●] (např. dne podpisu Smlouvy / dne předání Bytu), na úč
 
 10.2 Pronajímatel není oprávněn vstupovat do Bytu bez souhlasu Nájemce, ledaže jde o naléhavou situaci, kdy je nutné bezprostředně odvrátit hrozící škodu (např. havárie).
 
+10.3 Pronajímatel je po předchozí dohodě oprávněn provést kontrolu stavu Bytu nejvýše jednou měsíčně; o každé takové kontrole bude vyhotoven písemný záznam podepsaný oběma Smluvními stranami.
+
 ------------------------------------------------------------
 11. UKONČENÍ NÁJMU
 ------------------------------------------------------------
@@ -190,10 +192,12 @@ nejpozději do [●] (např. dne podpisu Smlouvy / dne předání Bytu), na úč
 
 11.4 Po skončení nájmu je Nájemce povinen:
 
-(a) Byt vyklidit od svých věcí a osob, které jej užívají na základě jeho práva,
+(a) Byt vyklidit od svých věcí a osob, které jej užívají na základě jeho práva, a Byt také vymalovat,
 (b) Byt uvést do stavu odpovídajícího obvyklému opotřebení s přihlédnutím k délce nájmu,
 (c) předat Pronajímateli všechny klíče a dálkové ovladače,
 (d) podepsat s Pronajímatelem předávací protokol o vrácení Bytu.
+
+11.5 V případě, že Nájemce opakovaně nebo hrubě poruší povinnosti vyplývající z této Smlouvy, je Pronajímatel oprávněn vypovědět nájem mimořádně s výpovědní dobou 15 dnů.
 
 ------------------------------------------------------------
 12. DORUČOVÁNÍ
@@ -235,10 +239,3 @@ Nájemce:
 
 Příloha č. 1 – Předávací protokol (stav Bytu, stavy měřidel, seznam klíčů a vybavení)
 Příloha č. 2 – [●]
-
-------------------------------------------------------------
-15. ZVLÁŠTNÍ UJEDNÁNÍ PRO TOHOTO NÁJEMCE
-------------------------------------------------------------
-
-- Nájemce se zavazuje plnit veškeré povinnosti stanovené touto Smlouvou s maximální péčí; opakované nebo hrubé porušení povinností je důvodem pro mimořádnou výpověď s výpovědní dobou 15 dnů.
-- Pronajímatel je oprávněn po předchozí dohodě provádět kontrolu stavu Bytu nejvýše jednou měsíčně; o každé kontrole bude vyhotoven písemný záznam podepsaný oběma stranami.
