@@ -165,6 +165,8 @@ nejpozději do [●] (např. dne podpisu Smlouvy / dne předání Bytu), na úč
 
 9.2 Nájemce odpovídá za škodu, kterou na Bytu nebo jeho vybavení způsobí on sám, osoby s ním žijící ve společné domácnosti, případně jeho návštěvy.
 
+9.3 Nájemci je výslovně umožněno chovat v Bytě jednoho psa; Nájemce zajistí, aby zvíře neobtěžovalo ostatní obyvatele domu a uhradí veškeré škody zvířetem způsobené.
+
 ------------------------------------------------------------
 10. PRÁVA A POVINNOSTI PRONAJÍMATELE
 ------------------------------------------------------------
@@ -190,7 +192,7 @@ nejpozději do [●] (např. dne podpisu Smlouvy / dne předání Bytu), na úč
 
 11.4 Po skončení nájmu je Nájemce povinen:
 
-(a) Byt vyklidit od svých věcí a osob, které jej užívají na základě jeho práva,
+(a) Byt vyklidit od svých věcí a osob, které jej užívají na základě jeho práva, a Byt také vymalovat,
 (b) Byt uvést do stavu odpovídajícího obvyklému opotřebení s přihlédnutím k délce nájmu,
 (c) předat Pronajímateli všechny klíče a dálkové ovladače,
 (d) podepsat s Pronajímatelem předávací protokol o vrácení Bytu.
@@ -235,9 +237,3 @@ Nájemce:
 
 Příloha č. 1 – Předávací protokol (stav Bytu, stavy měřidel, seznam klíčů a vybavení)
 Příloha č. 2 – [●]
-
-------------------------------------------------------------
-15. ZVLÁŠTNÍ UJEDNÁNÍ PRO TOHOTO NÁJEMCE
-------------------------------------------------------------
-
-- Nájemci je výslovně umožněno chovat v Bytě jednoho psa; Nájemce se zavazuje zajistit, aby zvíře neobtěžovalo ostatní obyvatele domu a aby uhradil veškeré škody zvířetem způsobené.
